@@ -1,172 +1,99 @@
-# Madhelasrinivas
+# Hi, I'm Srinivas Madhela 👋
 
-# DevOps Engineer Portfolio - Srinivas
-
-## 👨‍💻 Professional Profile
-
-**DevOps Engineer | 7 Years of Experience**
-
-Specializing in cloud infrastructure, CI/CD pipelines, containerization, and automation across AWS, Azure, and hybrid cloud environments.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/madhela-srinivas-999636248)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/srinivas363)
 
 ---
 
-## 🚀 Core Competencies
+## 🚀 DevOps Engineer | 7+ Years of Experience
 
-### Cloud Platforms
-- **AWS** - EC2, S3, RDS, Lambda, IAM, VPC, CloudFormation, EKS
-- **Azure** - Virtual Machines, Azure DevOps, AKS, Azure Functions, Key Vault
-- **Multi-cloud architecture and strategy**
+Passionate about building scalable, resilient cloud infrastructure and automating everything. Specializing in **AWS**, **Azure**, **Kubernetes**, **Terraform**, and **CI/CD pipelines** across hybrid and multi-cloud environments.
 
-### Infrastructure as Code
-- **Terraform** - Infrastructure provisioning and management
-- **CloudFormation** - AWS resource automation
-- **ARM Templates** - Azure resource deployment
+> "Automate everything, measure everything, iterate constantly."
 
-### CI/CD & Automation
-- **Jenkins** - Pipeline as Code, distributed builds
-- **GitHub Actions** - Workflow automation
-- **Azure DevOps** - Complete DevOps toolchain
-- **GitLab CI** - Continuous integration and deployment
+---
 
-### Containerization & Orchestration
-- **Docker** - Container creation, optimization, and management
-- **Kubernetes** - EKS, AKS, cluster management, Helm charts
-- **Container security and networking**
+## 🔧 Tech Stack & Expertise
 
-### Configuration Management
-- **Ansible** - Automation and configuration
-- **Chef/Puppet** - Infrastructure automation
+<p align="center">
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" />
+</p>
 
-### Monitoring & Logging
-- **Prometheus & Grafana** - Metrics and visualization
-- **ELK Stack** - Log aggregation and analysis
-- **CloudWatch** - AWS monitoring solutions
-- **Azure Monitor** - Azure observability
+---
 
-### Scripting & Programming
-- **Python** - Automation scripts, AWS Lambda functions
-- **Bash/Shell** - System automation
-- **HCL** - Terraform configuration
-- **Java** - Application deployment support
+## 💡 Core Competencies
+
+| Domain | Technologies |
+|--------|-------------|
+| **Cloud Platforms** | AWS (EC2, S3, RDS, Lambda, EKS, VPC, IAM, CloudFormation), Azure (AKS, DevOps, Functions, Key Vault) |
+| **Infrastructure as Code** | Terraform, CloudFormation, ARM Templates |
+| **CI/CD Pipelines** | Jenkins, GitHub Actions, Azure DevOps, GitLab CI |
+| **Containers & Orchestration** | Docker, Kubernetes (EKS/AKS), Helm Charts |
+| **Configuration Management** | Ansible, Chef, Puppet |
+| **Monitoring & Observability** | Prometheus, Grafana, ELK Stack, CloudWatch, Azure Monitor |
+| **Scripting & Automation** | Python, Bash/Shell, HCL |
+
+---
+
+## 📊 Key Achievements
+
+- Designed and managed **scalable cloud architectures** across 500+ EC2 instances and 100+ Azure VMs
+- Reduced infrastructure costs by **40%** through cloud optimization strategies
+- Built **50+ production CI/CD pipelines** — reduced deployment time from hours to minutes
+- Achieved **99.9% deployment success rate** across all environments
+- Automated **80% of manual operational tasks** with self-healing infrastructure
+- Implemented **100% Infrastructure as Code** coverage for all resources
+- Mentored **20+ engineers** in DevOps best practices and led transformation initiatives
 
 ---
 
 ## 📁 Featured Projects
 
-### [aws-devops-zero-to-hero](aws-devops-zero-to-hero)
-Complete AWS learning path for DevOps engineers covering:
-- 30-day structured learning curriculum
-- Real-world projects and implementations
-- Interview preparation materials
-- Best practices and patterns
-
-### [Azure-zero-to-hero](Azure-zero-to-hero)
-Comprehensive Azure fundamentals for DevOps:
-- Core Azure services mastery
-- Infrastructure automation
-- DevOps toolchain integration
-- Production-ready architectures
-
-### [vm-health-check](vm-health-check)
-Automated VM health monitoring solution:
-- Infrastructure health validation
-- Automated reporting
-- Proactive issue detection
-
-### [ultimate-linux-guide](ultimate-linux-guide)
-Complete Linux learning resource:
-- From beginner to advanced concepts
-- DevOps-focused content
-- Practical examples and scenarios
-
-### [devops-interview-preparation-guide](devops-interview-preparation-guide)
-Comprehensive interview preparation:
-- Common DevOps interview questions
-- Scenario-based problems
-- Best practices and patterns
-- Real-world examples
+| Project | Description |
+|---------|-------------|
+| [**aws-devops-zero-to-hero**](aws-devops-zero-to-hero) | 30-day structured AWS learning path with real-world projects & interview prep |
+| [**Azure-zero-to-hero**](Azure-zero-to-hero) | Comprehensive Azure fundamentals — core services, automation & production architectures |
+| [**vm-health-check**](vm-health-check) | Automated VM health monitoring with proactive issue detection & reporting |
+| [**ultimate-linux-guide**](ultimate-linux-guide) | Complete Linux resource from beginner to advanced (DevOps-focused) |
+| [**devops-interview-preparation-guide**](devops-interview-preparation-guide) | Comprehensive DevOps interview prep with scenario-based problems |
 
 ---
 
-## 🛠️ Technical Stack
+## 📈 GitHub Stats
 
-| Category | Technologies |
-|----------|-------------|
-| **Cloud** | AWS, Azure, Multi-cloud |
-| **IaC** | Terraform, CloudFormation, ARM Templates |
-| **CI/CD** | Jenkins, GitHub Actions, Azure DevOps, GitLab CI |
-| **Containers** | Docker, Kubernetes (EKS, AKS), Helm |
-| **Config Mgmt** | Ansible, Chef, Puppet |
-| **Monitoring** | Prometheus, Grafana, ELK, CloudWatch |
-| **Scripting** | Python, Bash, HCL, Java |
-| **Version Control** | Git, GitHub, GitLab, Azure Repos |
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=srinivas363&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=srinivas363&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 
 ---
 
-## 💼 Professional Experience Highlights
+## 🤝 Let's Connect
 
-### Cloud Infrastructure Management
-- Designed and implemented scalable cloud architectures
-- Reduced infrastructure costs by 40% through optimization
-- Managed 500+ EC2 instances and 100+ Azure VMs
+I'm open to:
+- **DevOps consulting** opportunities
+- **Technical collaborations** on cloud & automation projects
+- **Knowledge sharing** and mentorship
+- **Open source contributions**
 
-### CI/CD Pipeline Development
-- Built 50+ production pipelines across multiple platforms
-- Reduced deployment time from hours to minutes
-- Achieved 99.9% deployment success rate
-
-### Automation & Optimization
-- Automated 80% of manual operational tasks
-- Implemented infrastructure as code for 100% of resources
-- Created self-healing infrastructure solutions
-
-### Team Leadership & Mentorship
-- Led DevOps transformation initiatives
-- Mentored 20+ engineers in DevOps practices
-- Established DevOps best practices and standards
-
----
-
-## 📚 Learning Resources Created
-
-- **Zero to Hero series** for AWS and Azure
-- **Interview preparation guides** for DevOps roles
-- **Linux fundamentals** comprehensive guide
-- **Health check automation** tools and scripts
-
----
-
-## 🎯 DevOps Philosophy
-
-> "Automate everything, measure everything, iterate constantly"
-
-- **Infrastructure as Code** - Everything reproducible and versioned
-- **Continuous Improvement** - Always optimizing and learning
-- **Reliability First** - Building resilient, fault-tolerant systems
-- **Collaboration** - Bridging development and operations teams
-
----
-
-## 📞 Contact & Collaboration
-
-Open to:
-- DevOps consulting opportunities
-- Technical collaborations
-- Knowledge sharing and mentorship
-- Open source contributions
-
----
-
-## 📈 Recent Activity
-
-- **Latest Update**: March 2025 - Enhanced cloud automation scripts
-- **Active Contributions**: Regular updates to learning resources
-- **Community Engagement**: Sharing DevOps best practices
+📧 Reach out via [LinkedIn](https://www.linkedin.com/in/madhela-srinivas-999636248) or explore my repositories below!
 
 ---
 
 *Last Updated: May 2026*
-
----
-
-**Note**: This repository serves as a showcase of DevOps expertise, learning resources, and automation tools developed over 7 years of professional experience.
